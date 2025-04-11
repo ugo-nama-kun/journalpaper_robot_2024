@@ -1,4 +1,4 @@
-# Reproduction code and data for the plot of "Reverse-engineering homeostatic behaviours in physical robots"
+# Reproduction code and data for the plot of "Synthesizing survival robot behavior through reinforcement learning for homeostasis"
 Author: Naoto Yoshida
 
 1. Clone this repository.
