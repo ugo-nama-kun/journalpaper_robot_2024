@@ -1,3 +1,11 @@
+
+"""
+Filename: plot_FigS2.py
+Author: Naoto Yoshida
+Date: 2026-03-14
+Description: This script plots Figure S2 of the manuscript.
+"""
+
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 import json

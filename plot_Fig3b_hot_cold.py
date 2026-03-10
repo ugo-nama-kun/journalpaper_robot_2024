@@ -1,3 +1,9 @@
+"""
+Filename: plot_Fig3b_hot_cold.py
+Author: Naoto Yoshida
+Date: 2026-03-14
+Description: This script plots Figure 3b of the manuscript. Switch mode for "cold" or "hot" results.
+"""
 import matplotlib.pyplot as plt
 import json
 import numpy as np

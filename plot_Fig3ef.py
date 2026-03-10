@@ -1,3 +1,9 @@
+"""
+Filename: plot_Fig3ef.py
+Author: Naoto Yoshida
+Date: 2026-03-14
+Description: This script plots Figure S3e and 3f of the manuscript.
+"""
 import json
 import glob
 from copy import deepcopy
@@ -167,7 +173,7 @@ ax[1].fill_between(range(len(x_axis_data)),
                    color=color_red,
                    alpha=.1)
 ax[1].plot([0.8 * 9, ] * 2, [0, 1.1], "k--", alpha=0.5)
-ax[1].plot([0.6 * 9, ] * 2, [0, 1.1], "r--", alpha=0.5)
+ax[1].plot([0.7 * 9, ] * 2, [0, 1.1], "r--", alpha=0.5)
 ax[1].set_xticks(range(len(x_axis_labels)))
 ax[1].set_xticklabels(x_axis_labels)
 ax[1].set_xlabel('Normalized Energy', fontsize=20)

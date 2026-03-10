@@ -1,3 +1,9 @@
+"""
+Filename: plot_Fig2d.py
+Author: Naoto Yoshida
+Date: 2026-03-14
+Description: This script plots Figure 2d of the manuscript.
+"""
 import matplotlib.pyplot as plt
 import json
 import numpy as np

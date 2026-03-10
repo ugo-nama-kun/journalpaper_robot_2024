@@ -1,3 +1,9 @@
+"""
+Filename: plot_Fig2a.py
+Author: Naoto Yoshida
+Date: 2026-03-14
+Description: This script plots Figure 2a of the manuscript.
+"""
 import matplotlib.pyplot as plt
 import json
 import seaborn as sns
