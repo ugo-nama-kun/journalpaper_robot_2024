@@ -2,7 +2,7 @@
 Author: Naoto Yoshida
 
 1. Clone this repository.
-2. Extract data_20241119.zip into this directory (downloaded from https://zenodo.org/records/19018377).
+2. Extract "data" directory from "data_20241119.zip" into this directory (downloaded from https://zenodo.org/records/19018377).
 3. pip install following python packages in your environment (expecting python=3.11): 
    - pip install scipy matplotlib tqdm seaborn pandas scikit-learn
 4. Run each plot_Fig*.py
